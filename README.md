@@ -35,12 +35,13 @@
 
 | Color Name            | Hex Code   | Preview                                                                                     |
 | --------------------- | ---------- | ------------------------------------------------------------------------------------------- |
-| **Galactic Green**    | `#9BEC00`  | <span style="display:inline-block;width:20px;height:20px;background:#9BEC00;border:1px solid #000"></span> |
-| **Nebula Turquoise**  | `#00ECE4`  | <span style="display:inline-block;width:20px;height:20px;background:#00ECE4;border:1px solid #000"></span> |
-| **Solar Flare**     | `#FFE600`  | <span style="display:inline-block;width:20px;height:20px;background:#FFE600;border:1px solid #000"></span> |
-| **Stellar Pink**      | `#FF5BAE`  | <span style="display:inline-block;width:20px;height:20px;background:#FF5BAE;border:1px solid #000"></span> |
-| **Cosmic Purple**     | `#6957E8`  | <span style="display:inline-block;width:20px;height:20px;background:#6957E8;border:1px solid #000"></span> |
-| **Deep Space**        | `#0B0B23`  | <span style="display:inline-block;width:20px;height:20px;background:#0B0B23;border:1px solid #000"></span> |
+| **Galactic Green**    | `#9BEC00`  | ![](https://img.shields.io/badge/-%239BEC00.svg?color=9BEC00&style=for-the-badge) |
+| **Nebula Turquoise**  | `#00ECE4`  | ![](https://img.shields.io/badge/-%2300ECE4.svg?color=00ECE4&style=for-the-badge) |
+| **Solar Flare**       | `#FFE600`  | ![](https://img.shields.io/badge/-%23FFE600.svg?color=FFE600&style=for-the-badge) |
+| **Stellar Pink**      | `#FF5BAE`  | ![](https://img.shields.io/badge/-%23FF5BAE.svg?color=FF5BAE&style=for-the-badge) |
+| **Cosmic Purple**     | `#6957E8`  | ![](https://img.shields.io/badge/-%236957E8.svg?color=6957E8&style=for-the-badge) |
+| **Deep Space**        | `#0B0B23`  | ![](https://img.shields.io/badge/-%230B0B23.svg?color=0B0B23&style=for-the-badge) |
+
 
 *Note: These colors are interwoven with additional cosmic hues in the theme’s JSON configuration to create a balanced and immersive experience.*
 
