@@ -2,7 +2,7 @@
   "name": "arwinux-galaxy",
   "displayName": "Arwinux Galaxy",
   "description": "Arwinux Galaxy is a visually stunning VS Code theme inspired by the colors of the universe. Featuring deep blues, purples, and vibrant star-like accents, it enhances your coding experience with a futuristic and elegant look.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "arwinux",
   "repository": {
     "type": "git",
