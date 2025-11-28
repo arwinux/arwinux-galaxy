@@ -1,38 +1,36 @@
 {
   "name": "arwinux-galaxy",
   "displayName": "Arwinux Galaxy",
-  "description": "Arwinux Galaxy is a visually stunning VS Code theme inspired by the colors of the universe. Featuring deep blues, purples, and vibrant star-like accents, it enhances your coding experience with a futuristic and elegant look.",
-  "version": "0.0.3",
+  "description": "A futuristic, galaxy-inspired dark theme for Visual Studio Code featuring neon accents and cosmic contrast.",
+  "version": "0.1.0",
   "publisher": "arwinux",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/arwinux/arwinux-galaxy.git"
-  },
-  "keywords": [
-    "vscode",
-    "theme",
-    "galaxy",
-    "monokai",
-    "colors"
-  ],
-  "icon": "images/icon.jpg",
   "engines": {
-    "vscode": "^1.97.0"
+    "vscode": "^1.70.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "galaxy",
+    "cosmic",
+    "neon",
+    "arwinux",
+    "color-theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arwinux/arwinux-galaxy"
+  },
+  "icon": "icon.png",
   "contributes": {
     "themes": [
       {
         "label": "Arwinux Galaxy",
         "uiTheme": "vs-dark",
-        "path": "./themes/Arwinux Galaxy-color-theme.json"
+        "path": "./themes/arwinux-galaxy-color-theme.json"
       }
     ]
-  },
-  "scripts": {
-    "vscode:prepublish": "npm run compile",
-    "compile": "echo 'No compilation needed for a theme'"
   }
 }

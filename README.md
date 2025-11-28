@@ -1,71 +1,131 @@
-# Arwinux Galaxy
+<div align="center">
 
-**An immersive coding environment is hereby presented.**
-**Arwinux Galaxy** constitutes a visually compelling VS Code theme, meticulously engineered to integrate the esteemed aesthetic principles of Monokai Classic with a distinct celestial motif. Immersion within a coding milieu, inspired by the chromatic spectrum of the cosmos, is facilitated, wherein each constituent element has been designed to optimize cognitive focus and foster creative ideation.
+# 🌌 Arwinux Galaxy
 
-## Theme Visualizations 🖼️
+**A futuristic, galaxy-inspired dark theme for Visual Studio Code featuring neon accents and cosmic contrast.**
+
+[![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)](https://github.com/arwinux/arwinux-galaxy)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Theme](https://img.shields.io/badge/theme-dark-9BEC00?logo=visual-studio-code)](https://marketplace.visualstudio.com/)
+
+_Transform your coding environment into a cosmic experience_
+
+</div>
+
+## 🎨 Preview
 
 ### HTML
+
 ![HTML Preview](screenshots/html-preview.png)
-*Semantic HTML structures are rendered with enhanced clarity, exhibiting precise differentiation of tags and attributes.*
+_Semantic HTML structures with enhanced clarity and precise differentiation of tags and attributes_
 
 ### CSS
+
 ![CSS Preview](screenshots/css-preview.png)
-*CSS properties, selectors, and values are delineated through distinct chromatic assignments.*
+_CSS properties, selectors, and values with distinct chromatic assignments_
 
 ### JavaScript
+
 ![JavaScript Preview](screenshots/js-preview.png)
-*Contemporary JavaScript syntax is highlighted, ensuring unequivocal clarity of functions and parameters.*
+_Modern JavaScript syntax highlighting with clear function and parameter distinction_
 
 ---
 
-## ✨ Salient Features
+## ✨ Features
 
-* **Cosmic Design Philosophy:** The thematic palette transforms the integrated development environment into a representation of a stellar galaxy.
+- **🌌 Cosmic Design** - Immerse yourself in a stellar galaxy-inspired interface that transforms your coding environment
+- **👁️ Optimal Readability** - Carefully selected color palette ensures sustained clarity and vibrancy during extended coding sessions
+- **🎯 Monokai-Inspired** - Built upon the foundation of the widely recognized Monokai Classic theme with a celestial twist
+- **🌍 Extensive Language Support** - Comprehensive syntax highlighting for HTML, CSS, JavaScript/TypeScript (including JSX/TSX), Python, PHP, Ruby, Go, Rust, C#, Java, SQL, JSON, and Markdown
 
-* **Optimal Legibility:** Chromatic selections have been judiciously made to ensure the sustained clarity and vibrancy of source code, even during extended operational periods.
+---
 
-* **Monokai Classic Derivation:** The theme represents an advanced evolution of a widely recognized and highly regarded development theme.
+## 🎨 Color Palette
 
-* **Extensive Language Compatibility:** Comprehensive syntax highlighting capabilities are provided for a broad spectrum of programming languages and frameworks, including, but not limited to, ```HTML```, ```CSS```, ```JavaScript```/```TypeScript``` (inclusive of ```JSX```/```TSX``` extensions), ```Python```, ```PHP```, ```Ruby```, ```Go```, ```Rust```, ```C#```, ```Java```, ```SQL```, ```JSON```, and ```Markdown```.
+The **Arwinux Galaxy** theme features a distinctive cosmic color scheme with `#272822` as the foundational background color, known as "Deep Void."
 
-## 🎨 Chromatic Composition
+| Color Name           | Hex Code  | Preview                                                                                        |
+| -------------------- | --------- | ---------------------------------------------------------------------------------------------- |
+| **Galactic Green**   | `#9BEC00` | ![#9BEC00](https://img.shields.io/badge/-%239BEC00-9BEC00?style=for-the-badge&logoColor=white) |
+| **Nebula Turquoise** | `#00ECE4` | ![#00ECE4](https://img.shields.io/badge/-%2300ECE4-00ECE4?style=for-the-badge&logoColor=white) |
+| **Solar Flare**      | `#FFE600` | ![#FFE600](https://img.shields.io/badge/-%23FFE600-FFE600?style=for-the-badge&logoColor=black) |
+| **Stellar Pink**     | `#FF5BAE` | ![#FF5BAE](https://img.shields.io/badge/-%23FF5BAE-FF5BAE?style=for-the-badge&logoColor=white) |
+| **Astro Violet**     | `#AE81FF` | ![#AE81FF](https://img.shields.io/badge/-%23AE81FF-AE81FF?style=for-the-badge&logoColor=white) |
+| **Deep Void**        | `#272822` | ![#272822](https://img.shields.io/badge/-%23272822-272822?style=for-the-badge&logoColor=white) |
 
-The **Arwinux Galaxy** theme is predicated upon a distinctive array of colors, evoking the enigmatic and aesthetic qualities of outer space, with `#272822` serving as the foundational background hue, designated as "Deep Void."
+_Additional cosmic hues are integrated throughout the theme's configuration to create a harmonious and immersive experience._
 
-| **Color Designation** | **Hexadecimal Code** | **Visual Representation** |
-| --------------------- | -------------------- | ------------------------------------------------------------------------------------------- |
-| **Galactic Green** | `#9BEC00`            | ![](https://img.shields.io/badge/-%239BEC00.svg?color=9BEC00&style=for-the-badge) |
-| **Nebula Turquoise** | `#00ECE4`            | ![](https://img.shields.io/badge/-%2300ECE4.svg?color=00ECE4&style=for-the-badge) |
-| **Solar Flare** | `#FFE600`            | ![](https://img.shields.io/badge/-%23FFE600.svg?color=FFE600&style=for-the-badge) |
-| **Stellar Pink** | `#FF5BAE`            | ![](https://img.shields.io/badge/-%23FF5BAE.svg?color=FF5BAE&style=for-the-badge) |
-| **Astro Violet** | `#AE81FF`            | ![](https://img.shields.io/badge/-%23AE81FF.svg?color=AE81FF&style=for-the-badge) |
-| **Deep Void** | `#272822`            | ![](https://img.shields.io/badge/-%23272822.svg?color=272822&style=for-the-badge) |
+---
 
-*It is to be noted that supplementary cosmic hues have been integrated within the theme's JSON configuration to achieve a harmonious and immersive user experience.*
+## 🚀 Installation
 
-## 🎨 Configuration Procedures
+### From VS Code Marketplace
 
-* Access the file located at `themes/Arwinux Galaxy-color-theme.json`.
+1. Open VS Code
+2. Go to Extensions (`Ctrl+Shift+X` / `Cmd+Shift+X`)
+3. Search for "Arwinux Galaxy"
+4. Click **Install**
 
-* Modify the chromatic values or other configurable parameters as deemed appropriate.
+### Manual Installation
 
-* Initiate a restart of VS Code to effectuate the applied modifications.
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/arwinux/arwinux-galaxy.git
+   ```
+2. Copy the folder to your VS Code extensions directory:
+   - **Windows**: `%USERPROFILE%\.vscode\extensions\`
+   - **macOS**: `~/.vscode/extensions/`
+   - **Linux**: `~/.vscode/extensions/`
+3. Restart VS Code
+4. Select **Arwinux Galaxy** from the theme picker (`Ctrl+K Ctrl+T` / `Cmd+K Cmd+T`)
 
-## 🤝 Collaborative Contributions
+---
 
-* The repository may be forked.
+## ⚙️ Customization
 
-* A new branch is to be created, utilizing the command: `git checkout -b feature/YourFeature`.
+To customize the theme:
 
-* Changes are to be committed and subsequently pushed to the designated branch.
+1. Navigate to `themes/Arwinux Galaxy-color-theme.json`
+2. Modify color values or other parameters as desired
+3. Restart VS Code to apply changes
 
-* A pull request is to be submitted, accompanied by a comprehensive description of the implemented alterations.
+For more information on customizing color themes, refer to the [VS Code Color Theme documentation](https://code.visualstudio.com/api/extension-guides/color-theme).
 
-Contributors are respectfully requested to ensure that all submissions conform to the established coding style and include pertinent documentation or testing protocols.
+---
 
-## 👤 Originator Information
+## 🤝 Contributing
 
-Developed by [arwinux](https://github.com/arwinux), Arwinux Galaxy transcends the mere classification of a VS Code theme; it represents an experiential paradigm. Drawing inspiration from the immense expanse of the cosmos and the enduring elegance of Monokai Classic, this theme is conceived to elevate the coding environment through a distinctive, extraterrestrial aesthetic.
+Contributions are welcome! To contribute:
 
-Commence the coding endeavor with Arwinux Galaxy, thereby enabling creative faculties to ascend to celestial heights.
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/YourFeature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin feature/YourFeature`
+5. Submit a pull request with a detailed description of your changes
+
+Please ensure your contributions align with the project's coding style and include relevant documentation.
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👤 Author
+
+**arwinux**
+
+- GitHub: [@arwinux](https://github.com/arwinux)
+- Repository: [arwinux-galaxy](https://github.com/arwinux/arwinux-galaxy)
+
+---
+
+<div align="center">
+
+**Start coding with Arwinux Galaxy and let your creativity reach cosmic heights! 🚀**
+
+Made with ❤️ by [arwinux](https://github.com/arwinux)
+
+</div>
