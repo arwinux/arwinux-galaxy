@@ -2,7 +2,7 @@
   "name": "arwinux-galaxy",
   "displayName": "Arwinux Galaxy",
   "description": "A futuristic, galaxy-inspired dark theme for Visual Studio Code featuring neon accents and cosmic contrast.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "arwinux",
   "engines": {
     "vscode": "^1.70.0"
